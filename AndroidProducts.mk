@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_E7533.mk
+    $(LOCAL_DIR)/twrp_E7533.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_E7533-user \
-    omni_E7533-userdebug \
-    omni_E7533-eng
+    twrp_E7533-eng
