@@ -16,6 +16,7 @@ Display: 720 × 1600
 Stock Android: Android 10
 
 Device path : device/micromax/E7533
+
 Makefile : twrp_E7533
 
 Codename : E7533
