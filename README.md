@@ -25,6 +25,8 @@ Device tree branch: full_E7533-user-11-RP1A.200720.011-p1k61v164bspP12-release-k
 
 twrp manifest branch (that I use to build) : twrp-11
 
+By-@codebht
+
 # Android device tree for Micromax Micromax E7533 (E7533)
 
 ```
